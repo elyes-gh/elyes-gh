@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Elyes
 
-Backend Engineer PHP / Symfony based in Paris 🇫🇷  
+Backend Engineer PHP based in Paris 🇫🇷  
 I specialize in **backend development, SQL optimization, production systems, and application security**.
 
 ---
 
 ## 🚀 What I do
 
-- Design and maintain **robust Symfony APIs**
+- Design and maintain **robust APIs**
 - Optimize **SQL-heavy data processing** (performance & scalability)
 - Work on **production-critical systems** (incidents, stability, reliability)
 - Improve code quality with **tests, static analysis, and best practices**
