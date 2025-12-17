@@ -1,0 +1,27 @@
+name: Update README daily
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # every day at 06:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update README
+        run: |
+          DATE=$(date +"%Y-%m-%d")
+          sed -i "s/_Last update:.*/_Last update: ${DATE}_/" README.md
+
+      - name: Commit changes
+        run: |
+          git config user.name "elyes-gh-bot"
+          git config user.email "bot@github.com"
+          git add README.md
+          git commit -m "chore: daily README update" || echo "No changes"
+          git push
