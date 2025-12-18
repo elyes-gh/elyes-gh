@@ -41,4 +41,4 @@ I’m always happy to **discuss architecture choices and trade-offs in interview
 
 ---
 
-_Last update: <!--DATE-->_
+_Last update: 2025-12-18_
