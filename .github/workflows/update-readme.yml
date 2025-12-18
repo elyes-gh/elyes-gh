@@ -20,8 +20,9 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config user.name "elyes-gh-bot"
-          git config user.email "bot@github.com"
+          git config user.name "elyes-gh"
+          git config user.email "51989965+elyes-gh@users.noreply.github.com"
           git add README.md
           git commit -m "chore: daily README update" || echo "No changes"
           git push
+
