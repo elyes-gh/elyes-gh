@@ -1,36 +1,49 @@
 # 👋 Hi, I'm Elyes
 
-Backend Engineer PHP based in Paris 🇫🇷  
-I specialize in **backend development, SQL optimization, production systems, and application security**.
+Software engineer based in Paris 🇫🇷
+
+I enjoy writing code in general — backend, frontend, tooling, small experiments —  
+anything that helps me understand how systems work and how to make them better.
+
+I’m curious by nature and I like going a bit deeper than “it works”.
 
 ---
 
-## 🚀 What I do
+## 🧠 How I approach coding
 
-- Design and maintain **robust APIs**
-- Optimize **SQL-heavy data processing** (performance & scalability)
-- Work on **production-critical systems** (incidents, stability, reliability)
-- Improve code quality with **tests, static analysis, and best practices**
-- Build secure applications (encryption, data protection, ANSSI context)
+What I care about most is:
+- writing code that is **clear and maintainable**
+- understanding **why things behave the way they do**
+- improving existing code rather than rewriting everything
+- balancing simplicity, performance and readability
 
----
-
-## 🛠 Tech stack
-
-- **Backend:** PHP (Symfony, API Platform)
-- **Databases:** SQL (advanced optimization, large datasets)
-- **Quality:** PHPUnit, Behat, PHPStan, PHPCS, SonarQube
-- **Security:** Encryption / Decryption, secure APIs
-- **Other:** Git, CI/CD, documentation
+I like exploring problems from different angles, whether it’s on the frontend, the backend, or somewhere in between.
 
 ---
 
-## 📌 About my repositories
+## 🛠 What you’ll find here
 
-Most of my professional work is hosted in **private repositories**.  
-This profile contains **personal experiments, technical explorations, and documentation-oriented projects**.
+Most of my professional work lives in **private repositories**.
 
-I’m always happy to **discuss architecture choices and trade-offs in interviews**.
+On this GitHub, you’ll mainly find:
+- personal projects
+- experiments and proofs of concept
+- small tools and side ideas
+- notes and documentation
+
+This space reflects how I learn, test ideas, and improve over time.
+
+---
+
+## 💬 About discussions
+
+I enjoy talking about:
+- code structure and trade-offs
+- performance vs simplicity
+- frontend vs backend responsibilities
+- lessons learned from real-world projects
+
+If you’re curious about how I think or how I solve problems, feel free to reach out.
 
 ---
 
